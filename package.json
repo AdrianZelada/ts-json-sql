@@ -1,0 +1,27 @@
+{
+  "name": "ts-json-sql",
+  "version": "1.0.0",
+  "description": "Convert Json to Sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianZelada/ts-json-sql.git"
+  },
+  "keywords": [
+    "json",
+    "sql",
+    "typescript"
+  ],
+  "author": "Adrian Zelada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianZelada/ts-json-sql/issues"
+  },
+  "homepage": "https://github.com/AdrianZelada/ts-json-sql#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.11"
+  }
+}
