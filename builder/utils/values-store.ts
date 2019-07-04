@@ -4,7 +4,7 @@ export class ValuesStore{
 
     _values: any = {};
 
-    constructor(options: any) {
+    constructor(options? : any) {
         this.options = options || {};
         this._values = this.options.values || {};
     }
